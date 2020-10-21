@@ -1,3 +1,5 @@
+// STATEMENT
 var age = 39;
 
-console.log(age = 1 + (age * 2));
+// BELLOW THERE ARE 6 EXPRESSION, AND TOGETHER THEY'RE A EXPRESSION
+age = 1 + (age * 2);
